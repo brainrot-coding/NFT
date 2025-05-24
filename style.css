@@ -64,3 +64,46 @@ padding-left: 10px;
     height: 250px;
     background-color: aquamarine;
 }
+.tradeblockart{
+    width: 1200px;
+    height: 1000px;
+    background-color: #1F1F1F;
+    display: flex;
+    gap: 15px;
+}
+.kartochka1{
+    width: 200px;
+    height: 250px;
+    border-radius: 11.43px;
+    background-color: aliceblue;
+}
+.cartochka2{
+    width: 200px;
+    height: 250px;
+    border-radius: 11.43px;
+    background-color: aliceblue;
+    
+}
+.karta3{
+    width: 200px;
+    height: 250px;
+    border-radius: 11.43px;
+    background-color: aliceblue;
+
+}
+.kirieshka4{
+    width: 200px;
+    height: 250px;
+    border-radius: 11.43px;
+    background-color: aliceblue;
+
+
+}
+.bloked{
+    height: 1000px;
+    background-color: beige;
+}
+.textcrt{
+    display: flex;
+    gap: 10px;
+}
