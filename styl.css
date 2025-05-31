@@ -8,8 +8,8 @@
     background-color: brown;
 }
 .img{
-    width: 267.09px;
-    height: 277.07px;
+    /* width: 267.09px;
+    height: 277.07px; */
     background-color: blueviolet;
 }
 .l{
@@ -20,4 +20,100 @@
     border-radius: 360px;
     width: 38.3px;
     height: 38.3px;
+}
+body {
+    background-color: #fff;
+}
+
+.uptxt {
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.osnova {
+    background-color: bisque;
+    width: 582px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    padding: 15px;
+    gap: 15px;
+}
+
+.img {
+    flex: 1;
+}
+
+.lrobot {
+    /* width: 100%;
+    border-radius: 10px; */
+}
+
+.details {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.avaname {
+    position: relative;
+    /* width: 39px;
+    height: 39px; */
+    display: flex;
+}
+
+/* .woman img {
+    height: 100%;
+} */
+
+/* .galka {
+    width: 13px;
+    height: 13px;
+} */
+
+.txt, .txt2, .txt3 {
+    margin: 5px 0;
+}
+
+.bottom-row {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+
+.Lhren, .Rhren {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.txtCB, .txtEI {
+    margin: 0;
+}
+
+.nmbrs1 {
+    margin: 0;
+}
+
+.kripta {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.ether {
+    /* height: 20px; */
+}
+.shaurma{
+    display: flex;
+    justify-content: space-around;
+}
+.rrobot {
+    /* width: 100%; */
+    border-radius: 10px;
 }
