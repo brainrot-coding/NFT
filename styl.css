@@ -7,11 +7,7 @@
     border-radius: 20.95px;
     background-color: brown;
 }
-.img{
-    /* width: 267.09px;
-    height: 277.07px; */
-    background-color: blueviolet;
-}
+
 .l{
     width: 267.09px;
     height: 277.07;
@@ -25,23 +21,8 @@ body {
     background-color: #fff;
 }
 
-.uptxt {
-    margin: auto;
-    text-align: center;
-    padding: 10px;
-}
 
-.osnova {
-    background-color: bisque;
-    width: 582px;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    border-radius: 10px;
-    padding: 15px;
-    gap: 15px;
-}
+
 
 .img {
     flex: 1;
