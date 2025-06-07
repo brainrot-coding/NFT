@@ -44,10 +44,42 @@ padding-left: 10px;
 }
 
 .avatar{
-    height: 635px;
-    top: 2198.94px;
-    left: 0.05px;
-    background-color: black;
+    height: 540px;
+    padding-top: 95px;
+    background-color: #191919;
+}
+.avatarTitle{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+}
+.avatarItem{
+    width: 157px;
+}
+.avatarAvatar{
+    width: 157px;
+    height: 157px;
+    border-radius: 50%;
+    img{
+        width: 157px;
+        height: 157px;
+        border-radius: 50%;
+    }
+}
+.avatarInfo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: aliceblue;
+    h3{
+        font-size: 26px;
+    }
+}
+.leaderboard{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    
 }
 .explore{
     height: 1200px;
