@@ -65,4 +65,23 @@ body {
     padding: 20px;
     border-radius: 15px;
     width: 180px;
+    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.05);
+}
+.team-member img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+}
+.team-member h3 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+.team-member p {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #aaa;
 }
