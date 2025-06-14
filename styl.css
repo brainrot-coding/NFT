@@ -7,17 +7,13 @@
     border-radius: 20.95px;
     background-color: brown;
 }
-<<<<<<< HEAD
 .englesh{
     /* width: 267.09px;
     height: 277.07px; */
     background-color: blueviolet;
+    padding: 100px;
 }
 .robot{
-=======
-
-.l{
->>>>>>> d58affcdb9f117e0f65fa5c0fd3b99b711d9230a
     width: 267.09px;
     height: 277.07;
 }
@@ -31,96 +27,24 @@
     width:290px ;
     height: 400px;
 }
-<<<<<<< HEAD
 .print{
     color: aliceblue;
 }
 .rok{
-    color: aqua;
-    width: 9.77px;
+     width: 9.77px;
     height: 15.9px;
     top: 360px;
     left: 204.32px;
 }
+
 .glass{
     color: azure;
-=======
-
-
-
-
-.img {
-    flex: 1;
 }
-
-.lrobot {
-    /* width: 100%;
-    border-radius: 10px; */
-}
-
-.details {
-    flex: 2;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-.avaname {
-    position: relative;
-    /* width: 39px;
-    height: 39px; */
+.tortlu{
+    margin: 0px;
     display: flex;
 }
+.door{
+    background-color: black ; 
 
-/* .woman img {
-    height: 100%;
-} */
-
-/* .galka {
-    width: 13px;
-    height: 13px;
-} */
-
-.txt, .txt2, .txt3 {
-    margin: 5px 0;
-}
-
-.bottom-row {
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-    padding-right: 10px;
-}
-
-.Lhren, .Rhren {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-.txtCB, .txtEI {
-    margin: 0;
-}
-
-.nmbrs1 {
-    margin: 0;
-}
-
-.kripta {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.ether {
-    /* height: 20px; */
-}
-.shaurma{
-    display: flex;
-    justify-content: space-around;
-}
-.rrobot {
-    /* width: 100%; */
-    border-radius: 10px;
->>>>>>> d58affcdb9f117e0f65fa5c0fd3b99b711d9230a
 }
