@@ -1,0 +1,17 @@
+.play{
+    width: 306px;
+    height: 68px;
+    border-radius: 0.95px;
+    background-color: black;
+}
+.game{
+    width: 55px;
+    height: 55px;
+    border-radius: 45px;
+    padding: 22px;
+    background-color: cadetblue;
+}
+.gameover{
+    width: 24px;
+    height: 24px;
+}
