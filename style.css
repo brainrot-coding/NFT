@@ -206,3 +206,11 @@ padding-left: 10px;
 .nmbrs1 {
     margin: 0;
 }
+.button{
+    width: 224px;
+    background: linear-gradient(108.39deg, #FF56BB 6.99%, #FF8F77 119.86%);
+    border-radius: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
