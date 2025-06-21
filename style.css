@@ -206,3 +206,45 @@ padding-left: 10px;
 .nmbrs1 {
     margin: 0;
 }
+.h1f{
+    width: 297px;
+    Height: 24px;
+    font-size: 13px;
+}
+.h2f{
+    width: 622px;
+    height: 225px;
+    font-size: 68px;
+}
+.h3f{
+    width: 583px;
+    height: 74px;
+    font-size: 24px;
+}
+.baton{
+    width: 284px;
+height: 63px;
+top: 620px;
+left: 205.16px;
+border-radius: 20px;
+color: white;
+background: linear-gradient(108.39deg, #FF56BB 6.99%, #FF8F77 119.86%);
+border: none;
+}
+.img1234{
+width: 509px;
+height: 533px;
+border-radius: 26px;
+display: flex;
+justify-content: space-between;
+}
+.div1{
+    width: 622px;
+}
+.perx{
+    display: flex;
+    justify-content: center;
+    width: 1600px;
+    height: 902px;
+    padding-top: 24px;
+}
