@@ -1,4 +1,77 @@
 @font-face {
+    font-family: "suhariki";
+    src: url(ClashDisplay-Variable.ttf);
+}
+body {
+    margin: 0;
+    font-family: "suhariki";
+    background: #f9f9f9;
+    color: #333;
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px 40px;
+    flex-wrap: wrap;
+    background: white;
+}
+.hero-image img {
+    width: 300px;
+    max-width: 90%;
+}
+.hero-text {
+    max-width: 600px;
+    margin-left: 40px;
+}
+.hero-text h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.hero-text p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding: 40px 20px;
+    background: white;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.stat {
+    flex: 1;
+    min-width: 150px;
+}
+.stat i {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    display: block;
+}
+.stat:nth-child(1) i {
+    color: #8d6eff;
+}
+.stat:nth-child(2) i {
+    color: #ff4d8b;
+}
+.stat:nth-child(3) i {
+    color: #605eff;
+}
+.stat:nth-child(4) i {
+    color: #ff4d8b;
+}
+.stat h2 {
+    margin: 10px 0 5px;
+    font-size: 1.6rem;
+}
+
+
+
+
+@font-face {
     font-family: "nazva";
     src:
     url(ClashDisplay-Variable.ttf)
